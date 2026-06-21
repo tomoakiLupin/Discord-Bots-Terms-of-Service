@@ -19,8 +19,8 @@ Features may differ between Bots and may change over time.
 
 For questions, concerns, bug reports, or other inquiries, you may contact the 旅程ΟΡΙΖΟΝΤΑΣ team through:
 
-Email: [your email address]
-Support server: [your Discord support server link]
+Email: tatsunoryoukka@gmail.com
+Support server: https://discord.gg/4E8w7fBNC
 
 Please include the name of the relevant Bot when contacting us.
 
